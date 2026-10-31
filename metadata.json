@@ -1,0 +1,6 @@
+{
+  "name": "NexusDoc AI – Multilingual Institutional Knowledge Assistant",
+  "description": "Institutional AI document search and question-answering assistant for universities, with grounded RAG, citation verification, and full English, Hindi, and Telugu support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

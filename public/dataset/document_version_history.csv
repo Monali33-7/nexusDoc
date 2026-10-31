@@ -1,0 +1,8 @@
+document_id,document_title,version_number,effective_date,approval_status,supersedes_document_id,audit_notes
+"VNIT-CIR-2025-01","Odd Semester End Exam Schedule 2025","1.0","2025-10-15","Approved","VNIT-CIR-2024-88","Replaced Rs 1,500 fee with Rs 1,800 fee approved by BoG"
+"VNIT-CIR-2024-88","Older Examination Fee Circular 2024","0.9","2024-09-05","Superseded","","Superseded by VNIT-CIR-2025-01"
+"VNIT-POL-ACAD-01","B.Tech Academic Regulations 2025","2025.1","2025-07-01","Approved","VNIT-POL-ACAD-2021","Raised condonation floor from 60% to 65%; revised pass grade to C (50%)"
+"VNIT-POL-ACAD-2021","Old Academic Regulations 2021","2021.0","2021-08-01","Superseded","","Superseded by VNIT-POL-ACAD-01"
+"VNIT-CIR-2025-02","Tuition Fee Payment Schedule 2026","1.2","2025-12-01","Approved","VNIT-CIR-2024-12","Updated late fee tiers for academic year 2025-26"
+"VNIT-CIR-2025-04","Proposal on Saturday Makeup Labs","0.1","2025-10-01","Draft","","Draft status pending Senate review; non-enforceable"
+"VNIT-CIR-2024-19","Off-Campus Living Subsidy Allowance","0.2","2024-08-10","Rejected","","Disapproved by Finance Committee due to lack of budget"

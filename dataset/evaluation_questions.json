@@ -1,0 +1,1002 @@
+[
+  {
+    "question_id": "EVAL-001",
+    "test_type": "Standard English",
+    "language": "en",
+    "user_role": "Student",
+    "query": "What is the minimum attendance requirement for undergraduate B.Tech examinations?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-POL-ACAD-01",
+    "expected_answer_snippet": "75% aggregate attendance required; condonation between 65% and 74.9% with Rs. 1,000 fee"
+  },
+  {
+    "question_id": "EVAL-002",
+    "test_type": "Standard English",
+    "language": "en",
+    "user_role": "Student",
+    "query": "What are the main gate closing timings and hostel curfews?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-HST-01",
+    "expected_answer_snippet": "9:30 PM (Sun-Fri), 10:00 PM (Sat) with biometric punch between 9-10 PM"
+  },
+  {
+    "question_id": "EVAL-003",
+    "test_type": "Standard English",
+    "language": "en",
+    "user_role": "Student",
+    "query": "What is the current examination fee for odd semester end-term examinations?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-CIR-2025-01",
+    "expected_answer_snippet": "Rs. 1,800/- per semester"
+  },
+  {
+    "question_id": "EVAL-004",
+    "test_type": "Standard English",
+    "language": "en",
+    "user_role": "Student",
+    "query": "What are the income and CGPA eligibility criteria for MCM Scholarship?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-SCH-01",
+    "expected_answer_snippet": "Annual income under Rs. 5,00,000/- and minimum 7.00 CGPA with no backlogs"
+  },
+  {
+    "question_id": "EVAL-005",
+    "test_type": "Standard English",
+    "language": "en",
+    "user_role": "Student",
+    "query": "What is the monthly stipend for GATE-qualified M.Tech students?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-POL-ACAD-02",
+    "expected_answer_snippet": "Rs. 12,400/- per month with 8 hours/week teaching assistance"
+  },
+  {
+    "question_id": "EVAL-006",
+    "test_type": "Standard English",
+    "language": "en",
+    "user_role": "Student",
+    "query": "What is the penalty for paying tuition fees after January 10th 2026?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-CIR-2025-02",
+    "expected_answer_snippet": "Rs. 500 up to Jan 20th; Rs. 2,000 plus LMS deregistration after Jan 20th"
+  },
+  {
+    "question_id": "EVAL-007",
+    "test_type": "Standard English",
+    "language": "en",
+    "user_role": "Student",
+    "query": "How many credits are required to graduate from the 2-year M.Tech program?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-POL-ACAD-02",
+    "expected_answer_snippet": "68 total credits (28 coursework + 40 dissertation credits)"
+  },
+  {
+    "question_id": "EVAL-008",
+    "test_type": "Standard English",
+    "language": "en",
+    "user_role": "Student",
+    "query": "What is the fine for possessing banned electric appliances in hostel rooms?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-HST-04",
+    "expected_answer_snippet": "Rs. 2,000 fine and confiscation of appliance"
+  },
+  {
+    "question_id": "EVAL-009",
+    "test_type": "Standard English",
+    "language": "en",
+    "user_role": "Student",
+    "query": "What is the minimum passing grade on the 10-point scale?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-POL-ACAD-01",
+    "expected_answer_snippet": "Grade C (50-54%, 5.0 grade points); below 50% is Grade F (Fail)"
+  },
+  {
+    "question_id": "EVAL-010",
+    "test_type": "Standard English",
+    "language": "en",
+    "user_role": "Student",
+    "query": "What is the emergency ambulance phone extension on campus?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-HBK-STU-01",
+    "expected_answer_snippet": "Extension 3333 at the 24x7 Health Centre"
+  },
+  {
+    "question_id": "EVAL-011",
+    "test_type": "Standard English",
+    "language": "en",
+    "user_role": "Student",
+    "query": "What are the rules for mess rebate during hostel leave?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-HST-03",
+    "expected_answer_snippet": "Minimum 4 consecutive days absence with 48 hours advance notice"
+  },
+  {
+    "question_id": "EVAL-012",
+    "test_type": "Standard English",
+    "language": "en",
+    "user_role": "Student",
+    "query": "How much caution deposit is paid during hostel admission?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-HST-02",
+    "expected_answer_snippet": "Rs. 10,000/- refundable upon graduation"
+  },
+  {
+    "question_id": "EVAL-013",
+    "test_type": "Standard English",
+    "language": "en",
+    "user_role": "Student",
+    "query": "What is the maximum continuous Earned Leave accumulation for faculty?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-HBK-EMP-01",
+    "expected_answer_snippet": "Up to 300 days encashable upon superannuation"
+  },
+  {
+    "question_id": "EVAL-014",
+    "test_type": "Standard English",
+    "language": "en",
+    "user_role": "Student",
+    "query": "What is the annual book grant for SC/ST students under the Post-Matric scheme?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-SCH-02",
+    "expected_answer_snippet": "Rs. 4,000/- per annum reimbursed through PFMS"
+  },
+  {
+    "question_id": "EVAL-015",
+    "test_type": "Standard English",
+    "language": "en",
+    "user_role": "Student",
+    "query": "What is the curfew time for campus night canteens?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-HST-07",
+    "expected_answer_snippet": "Operate from 9:30 PM to 2:00 AM"
+  },
+  {
+    "question_id": "EVAL-016",
+    "test_type": "Standard English",
+    "language": "en",
+    "user_role": "Student",
+    "query": "What is the national toll-free anti-ragging helpline number?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-HBK-STU-01",
+    "expected_answer_snippet": "1800-180-5522"
+  },
+  {
+    "question_id": "EVAL-017",
+    "test_type": "Standard English",
+    "language": "en",
+    "user_role": "Student",
+    "query": "What is the attendance condonation window submission deadline?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-CIR-2025-03",
+    "expected_answer_snippet": "12th November 2025 at Dean Academic Affairs office"
+  },
+  {
+    "question_id": "EVAL-018",
+    "test_type": "Standard English",
+    "language": "en",
+    "user_role": "Student",
+    "query": "What is the GPA cutoff for single room allotment in final year?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-HST-02",
+    "expected_answer_snippet": "Single room allocated based on CGPA merit for final year and M.Tech"
+  },
+  {
+    "question_id": "EVAL-019",
+    "test_type": "Standard English",
+    "language": "en",
+    "user_role": "Student",
+    "query": "What is the daily LAN port internet quota for hostel residents?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-HST-14",
+    "expected_answer_snippet": "15 GB daily quota per student"
+  },
+  {
+    "question_id": "EVAL-020",
+    "test_type": "Standard English",
+    "language": "en",
+    "user_role": "Student",
+    "query": "How many days of Duty Leave can faculty take for conference attendance?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-HBK-EMP-01",
+    "expected_answer_snippet": "Up to 14 days per academic year"
+  },
+  {
+    "question_id": "EVAL-021",
+    "test_type": "Standard English",
+    "language": "en",
+    "user_role": "Student",
+    "query": "What is the minimum CGPA required to avoid academic probation?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-POL-ACAD-01",
+    "expected_answer_snippet": "Minimum 5.00 CGPA"
+  },
+  {
+    "question_id": "EVAL-022",
+    "test_type": "Standard English",
+    "language": "en",
+    "user_role": "Student",
+    "query": "What is the fee for automated laundromat tokens?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-HST-09",
+    "expected_answer_snippet": "Rs. 40 per wash load"
+  },
+  {
+    "question_id": "EVAL-023",
+    "test_type": "Standard English",
+    "language": "en",
+    "user_role": "Student",
+    "query": "Can guest rooms be booked for parents and what is the tariff?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-HST-05",
+    "expected_answer_snippet": "Up to 3 days at Rs. 800/night with Warden approval"
+  },
+  {
+    "question_id": "EVAL-024",
+    "test_type": "Standard English",
+    "language": "en",
+    "user_role": "Student",
+    "query": "What is the fine for day scholars staying overnight in hostel rooms?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-HST-15",
+    "expected_answer_snippet": "Rs. 3,000/- fine on both host student and day scholar"
+  },
+  {
+    "question_id": "EVAL-025",
+    "test_type": "Standard English",
+    "language": "en",
+    "user_role": "Student",
+    "query": "What is the tuition waiver percentage for Single Girl Child scheme?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-SCH-05",
+    "expected_answer_snippet": "100% tuition fee waiver for CGPA 6.50 and above"
+  },
+  {
+    "question_id": "EVAL-026",
+    "test_type": "Multilingual Hindi",
+    "language": "hi",
+    "user_role": "Student",
+    "query": "बी.टेक परीक्षा में बैठने के लिए न्यूनतम उपस्थिति कितनी आवश्यक है?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-POL-ACAD-01",
+    "expected_answer_snippet": "न्यूनतम 75% कुल उपस्थिति अनिवार्य है; 65% से 74.9% तक 1,000 रुपये शुल्क के साथ क्षमादान"
+  },
+  {
+    "question_id": "EVAL-027",
+    "test_type": "Multilingual Hindi",
+    "language": "hi",
+    "user_role": "Student",
+    "query": "हॉस्टल के प्रवेश-निकास और गेट बंद होने का समय क्या है?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-HST-01",
+    "expected_answer_snippet": "रात 9:30 बजे (रविवार-शुक्रवार) और 10:00 बजे (शनिवार)"
+  },
+  {
+    "question_id": "EVAL-028",
+    "test_type": "Multilingual Hindi",
+    "language": "hi",
+    "user_role": "Student",
+    "query": "मेरिट-कम-मीन्स छात्रवृत्ति के लिए परिवार की आय सीमा और पात्रता क्या है?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-SCH-01",
+    "expected_answer_snippet": "वार्षिक आय 5,00,000 रुपये से कम और न्यूनतम 7.00 सीजीपीए"
+  },
+  {
+    "question_id": "EVAL-029",
+    "test_type": "Multilingual Hindi",
+    "language": "hi",
+    "user_role": "Student",
+    "query": "एम.टेक छात्रों को गेट फेलोशिप के तहत कितना मासिक वजीफा मिलता है?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-POL-ACAD-02",
+    "expected_answer_snippet": "12,400 रुपये प्रति माह और 8 घंटे प्रति सप्ताह शिक्षण सहायता"
+  },
+  {
+    "question_id": "EVAL-030",
+    "test_type": "Multilingual Hindi",
+    "language": "hi",
+    "user_role": "Student",
+    "query": "एंड सेमेस्टर नियमित परीक्षा का वर्तमान परीक्षा शुल्क कितना है?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-CIR-2025-01",
+    "expected_answer_snippet": "1,800 रुपये प्रति सेमेस्टर"
+  },
+  {
+    "question_id": "EVAL-031",
+    "test_type": "Multilingual Hindi",
+    "language": "hi",
+    "user_role": "Student",
+    "query": "ट्यूशन फीस विलंब से जमा करने पर क्या जुर्माना लगता है?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-CIR-2025-02",
+    "expected_answer_snippet": "20 जनवरी तक 500 रुपये, उसके बाद 2,000 रुपये और एलएमएस निरस्तीकरण"
+  },
+  {
+    "question_id": "EVAL-032",
+    "test_type": "Multilingual Hindi",
+    "language": "hi",
+    "user_role": "Student",
+    "query": "हॉस्टल में इलेक्ट्रिक हीटर या केतली रखने पर क्या दंड है?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-HST-04",
+    "expected_answer_snippet": "2,000 रुपये जुर्माना और उपकरण की जब्ती"
+  },
+  {
+    "question_id": "EVAL-033",
+    "test_type": "Multilingual Hindi",
+    "language": "hi",
+    "user_role": "Student",
+    "query": "कैंपस में आपातकालीन एम्बुलेंस के लिए कौन सा नंबर डायल करें?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-HBK-STU-01",
+    "expected_answer_snippet": "एक्सटेंशन 3333"
+  },
+  {
+    "question_id": "EVAL-034",
+    "test_type": "Multilingual Hindi",
+    "language": "hi",
+    "user_role": "Student",
+    "query": "10-पॉइंट स्केल पर उत्तीर्ण होने के लिए न्यूनतम पासिंग ग्रेड क्या है?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-POL-ACAD-01",
+    "expected_answer_snippet": "ग्रेड C (50-54%, 5.0 ग्रेड पॉइंट)"
+  },
+  {
+    "question_id": "EVAL-035",
+    "test_type": "Multilingual Hindi",
+    "language": "hi",
+    "user_role": "Student",
+    "query": "रैगिंग की शिकायत के लिए राष्ट्रीय हेल्पलाइन नंबर क्या है?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-HBK-STU-01",
+    "expected_answer_snippet": "1800-180-5522"
+  },
+  {
+    "question_id": "EVAL-036",
+    "test_type": "Multilingual Hindi",
+    "language": "hi",
+    "user_role": "Student",
+    "query": "एससी/एसटी छात्रों के लिए पोस्ट-मैट्रिक छात्रवृत्ति की आय सीमा क्या है?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-SCH-02",
+    "expected_answer_snippet": "वार्षिक आय 2.5 लाख रुपये से कम और 4,000 रुपये पुस्तक अनुदान"
+  },
+  {
+    "question_id": "EVAL-037",
+    "test_type": "Multilingual Hindi",
+    "language": "hi",
+    "user_role": "Student",
+    "query": "हॉस्टल प्रवेश के समय कितनी जमानत राशि (कॉशन डिपॉजिट) जमा करनी होती है?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-HST-02",
+    "expected_answer_snippet": "10,000 रुपये रिफंडेबल"
+  },
+  {
+    "question_id": "EVAL-038",
+    "test_type": "Multilingual Hindi",
+    "language": "hi",
+    "user_role": "Student",
+    "query": "नाइट कैंटीन खुलने का समय क्या है?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-HST-07",
+    "expected_answer_snippet": "रात 9:30 बजे से देर रात 2:00 बजे तक"
+  },
+  {
+    "question_id": "EVAL-039",
+    "test_type": "Multilingual Hindi",
+    "language": "hi",
+    "user_role": "Student",
+    "query": "क्या डे स्कॉलर रात में हॉस्टल में रुक सकते हैं?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-HST-15",
+    "expected_answer_snippet": "नहीं, सख्त मनाही है; उल्लंघन पर 3,000 रुपये जुर्माना"
+  },
+  {
+    "question_id": "EVAL-040",
+    "test_type": "Multilingual Hindi",
+    "language": "hi",
+    "user_role": "Student",
+    "query": "हॉस्टल मेस में कटौती (मेस रिबेट) के लिए न्यूनतम कितने दिन की छुट्टी चाहिए?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-HST-03",
+    "expected_answer_snippet": "न्यूनतम 4 लगातार दिन और 48 घंटे पूर्व सूचना"
+  },
+  {
+    "question_id": "EVAL-041",
+    "test_type": "Multilingual Telugu",
+    "language": "te",
+    "user_role": "Student",
+    "query": "బి.టెక్ పరీక్షలకు హాజరు కావడానికి కనీస హాజరు శాతం ఎంత ఉండాలి?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-POL-ACAD-01",
+    "expected_answer_snippet": "కనీసం 75% మొత్తం హాజరు; 65% నుండి 74.9% మధ్య రూ. 1,000 ఫీజుతో క్షమాభిక్ష"
+  },
+  {
+    "question_id": "EVAL-042",
+    "test_type": "Multilingual Telugu",
+    "language": "te",
+    "user_role": "Student",
+    "query": "హాస్టల్ ప్రవేశ సమయాలు మరియు నిబంధనలు ఏమిటి?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-HST-01",
+    "expected_answer_snippet": "రాత్రి 9:30 గంటలు (ఆదివారం-శుక్రవారం), శనివారం రాత్రి 10:00 గంటలు"
+  },
+  {
+    "question_id": "EVAL-043",
+    "test_type": "Multilingual Telugu",
+    "language": "te",
+    "user_role": "Student",
+    "query": "మెరిట్-కమ్-మీన్స్ (MCM) స్కాలర్‌షిప్ అర్హత ప్రమాణాలు ఏమిటి?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-SCH-01",
+    "expected_answer_snippet": "కుటుంబ ఆదాయం రూ. 5 లక్షల లోపు మరియు కనీసం 7.00 CGPA"
+  },
+  {
+    "question_id": "EVAL-044",
+    "test_type": "Multilingual Telugu",
+    "language": "te",
+    "user_role": "Student",
+    "query": "గేట్ అర్హత కలిగిన ఎం.టెక్ విద్యార్థుల నెలవారీ స్టైపెండ్ ఎంత?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-POL-ACAD-02",
+    "expected_answer_snippet": "నెలకు రూ. 12,400/- మరియు వారానికి 8 గంటల ల్యాబ్ అసిస్టెంట్‌షిప్"
+  },
+  {
+    "question_id": "EVAL-045",
+    "test_type": "Multilingual Telugu",
+    "language": "te",
+    "user_role": "Student",
+    "query": "చివరి సెమిస్టర్ ప్రస్తుత పరీక్షల రుసుము ఎంత?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-CIR-2025-01",
+    "expected_answer_snippet": "సెమిస్టర్‌కు రూ. 1,800/-"
+  },
+  {
+    "question_id": "EVAL-046",
+    "test_type": "Multilingual Telugu",
+    "language": "te",
+    "user_role": "Student",
+    "query": "ట్యూషన్ ఫీజు ఆలస్యంగా చెల్లిస్తే విధించే జరిమానా ఎంత?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-CIR-2025-02",
+    "expected_answer_snippet": "జనవరి 20 వరకు రూ. 500, ఆ తర్వాత రూ. 2,000 జరిమానా"
+  },
+  {
+    "question_id": "EVAL-047",
+    "test_type": "Multilingual Telugu",
+    "language": "te",
+    "user_role": "Student",
+    "query": "హాస్టల్ గదుల్లో ఎలక్ట్రిక్ హీటర్లు ఉపయోగించవచ్చా?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-HST-04",
+    "expected_answer_snippet": "లేదు, ఖచ్చితంగా నిషేధం; రూ. 2,000 జరిమానా మరియు పరికరం జప్తు"
+  },
+  {
+    "question_id": "EVAL-048",
+    "test_type": "Multilingual Telugu",
+    "language": "te",
+    "user_role": "Student",
+    "query": "క్యాంపస్ ఎమర్జెన్సీ అంబులెన్స్ సంప్రదింపు నంబర్ ఏమిటి?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-HBK-STU-01",
+    "expected_answer_snippet": "ఎక్స్‌టెన్షన్ 3333"
+  },
+  {
+    "question_id": "EVAL-049",
+    "test_type": "Multilingual Telugu",
+    "language": "te",
+    "user_role": "Student",
+    "query": "10-పాయింట్ గ్రేడింగ్ విధానంలో కనీస పాస్ గ్రేడ్ ఏమిటి?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-POL-ACAD-01",
+    "expected_answer_snippet": "గ్రేడ్ C (50-54%, 5.0 పాయింట్లు)"
+  },
+  {
+    "question_id": "EVAL-050",
+    "test_type": "Multilingual Telugu",
+    "language": "te",
+    "user_role": "Student",
+    "query": "యాంటీ-ర్యాగింగ్ టోల్ ఫ్రీ హెల్ప్‌లైన్ నంబర్ ఎంత?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-HBK-STU-01",
+    "expected_answer_snippet": "1800-180-5522"
+  },
+  {
+    "question_id": "EVAL-051",
+    "test_type": "Multilingual Telugu",
+    "language": "te",
+    "user_role": "Student",
+    "query": "SC/ST పోస్ట్-మెట్రిక్ స్కాలర్‌షిప్ ఆదాయ పరిమితి ఎంత?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-SCH-02",
+    "expected_answer_snippet": "కుటుంబ ఆదాయం రూ. 2.5 లక్షల లోపు మరియు రూ. 4,000 పుస్తక గ్రాంట్"
+  },
+  {
+    "question_id": "EVAL-052",
+    "test_type": "Multilingual Telugu",
+    "language": "te",
+    "user_role": "Student",
+    "query": "హాస్టల్ ప్రవేశ సమయంలో డిపాజిట్ ఎంత చెల్లించాలి?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-HST-02",
+    "expected_answer_snippet": "రూ. 10,000/- రీఫండబుల్ డిపాజిట్"
+  },
+  {
+    "question_id": "EVAL-053",
+    "test_type": "Multilingual Telugu",
+    "language": "te",
+    "user_role": "Student",
+    "query": "రాత్రి క్యాంటీన్ తెరిచి ఉండే సమయాలు ఏమిటి?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-HST-07",
+    "expected_answer_snippet": "రాత్రి 9:30 నుండి తెల్లవారుజామున 2:00 వరకు"
+  },
+  {
+    "question_id": "EVAL-054",
+    "test_type": "Multilingual Telugu",
+    "language": "te",
+    "user_role": "Student",
+    "query": "డే స్కాలర్స్ రాత్రి పూట హాస్టల్ గదుల్లో ఉండవచ్చా?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-HST-15",
+    "expected_answer_snippet": "వీలులేదు, ఖచ్చితంగా నిషిద్ధం; రూ. 3,000/- జరిమానా"
+  },
+  {
+    "question_id": "EVAL-055",
+    "test_type": "Multilingual Telugu",
+    "language": "te",
+    "user_role": "Student",
+    "query": "హాస్టల్ మెస్ రీబేట్ పొందడానికి కనీసం ఎన్ని రోజులు లీవ్ పెట్టాలి?",
+    "expected_behavior": "Answer with Citation",
+    "expected_citation_doc_id": "VNIT-HST-03",
+    "expected_answer_snippet": "కనీసం వరుసగా 4 రోజులు మరియు 48 గంటల ముందు తెలియజేయాలి"
+  },
+  {
+    "question_id": "EVAL-056",
+    "test_type": "Expired/Superseded",
+    "language": "en",
+    "user_role": "Student",
+    "query": "Can I pay Rs. 1500 as examination fee as mentioned in circular 2024-88? (Version Check Query #1)",
+    "expected_behavior": "Cite Current and Warn Superseded",
+    "expected_citation_doc_id": "VNIT-CIR-2025-01",
+    "expected_answer_snippet": "SUPERSEDED: Circular VNIT-CIR-2024-88 is superseded by VNIT-CIR-2025-01. The current valid examination fee is Rs. 1,800/-."
+  },
+  {
+    "question_id": "EVAL-057",
+    "test_type": "Expired/Superseded",
+    "language": "en",
+    "user_role": "Student",
+    "query": "Is the 2021 attendance condonation policy down to 60% still valid? (Version Check Query #2)",
+    "expected_behavior": "Cite Current and Warn Superseded",
+    "expected_citation_doc_id": "VNIT-POL-ACAD-01",
+    "expected_answer_snippet": "SUPERSEDED: The 2021 policy (VNIT-POL-ACAD-2021) allowing 60% is superseded. Under active Regulations 2025, minimum condonable limit is strictly 65%."
+  },
+  {
+    "question_id": "EVAL-058",
+    "test_type": "Expired/Superseded",
+    "language": "en",
+    "user_role": "Student",
+    "query": "What were the library overdue fines under the expired 2023 circular? (Version Check Query #3)",
+    "expected_behavior": "Cite Current and Warn Superseded",
+    "expected_citation_doc_id": "VNIT-CIR-2023-26",
+    "expected_answer_snippet": "EXPIRED: Circular VNIT-CIR-2023-26 expired on 2024-06-30. System warns that document is no longer active."
+  },
+  {
+    "question_id": "EVAL-059",
+    "test_type": "Expired/Superseded",
+    "language": "en",
+    "user_role": "Student",
+    "query": "Can I apply for the 2024 sports quota admission fee rebate circular? (Version Check Query #4)",
+    "expected_behavior": "Cite Current and Warn Superseded",
+    "expected_citation_doc_id": "VNIT-CIR-2023-28",
+    "expected_answer_snippet": "EXPIRED: Circular expired on 2024-06-30. Superseded by 2025 sports policy."
+  },
+  {
+    "question_id": "EVAL-060",
+    "test_type": "Expired/Superseded",
+    "language": "en",
+    "user_role": "Student",
+    "query": "Does 40% still qualify as passing grade D according to the old regulation? (Version Check Query #5)",
+    "expected_behavior": "Cite Current and Warn Superseded",
+    "expected_citation_doc_id": "VNIT-POL-ACAD-01",
+    "expected_answer_snippet": "SUPERSEDED: Old 2021 regulation replaced. Minimum passing grade is now Grade C (50%)."
+  },
+  {
+    "question_id": "EVAL-061",
+    "test_type": "Expired/Superseded",
+    "language": "en",
+    "user_role": "Student",
+    "query": "Can I pay Rs. 1500 as examination fee as mentioned in circular 2024-88? (Version Check Query #6)",
+    "expected_behavior": "Cite Current and Warn Superseded",
+    "expected_citation_doc_id": "VNIT-CIR-2025-01",
+    "expected_answer_snippet": "SUPERSEDED: Circular VNIT-CIR-2024-88 is superseded by VNIT-CIR-2025-01. The current valid examination fee is Rs. 1,800/-."
+  },
+  {
+    "question_id": "EVAL-062",
+    "test_type": "Expired/Superseded",
+    "language": "en",
+    "user_role": "Student",
+    "query": "Is the 2021 attendance condonation policy down to 60% still valid? (Version Check Query #7)",
+    "expected_behavior": "Cite Current and Warn Superseded",
+    "expected_citation_doc_id": "VNIT-POL-ACAD-01",
+    "expected_answer_snippet": "SUPERSEDED: The 2021 policy (VNIT-POL-ACAD-2021) allowing 60% is superseded. Under active Regulations 2025, minimum condonable limit is strictly 65%."
+  },
+  {
+    "question_id": "EVAL-063",
+    "test_type": "Expired/Superseded",
+    "language": "en",
+    "user_role": "Student",
+    "query": "What were the library overdue fines under the expired 2023 circular? (Version Check Query #8)",
+    "expected_behavior": "Cite Current and Warn Superseded",
+    "expected_citation_doc_id": "VNIT-CIR-2023-26",
+    "expected_answer_snippet": "EXPIRED: Circular VNIT-CIR-2023-26 expired on 2024-06-30. System warns that document is no longer active."
+  },
+  {
+    "question_id": "EVAL-064",
+    "test_type": "Expired/Superseded",
+    "language": "en",
+    "user_role": "Student",
+    "query": "Can I apply for the 2024 sports quota admission fee rebate circular? (Version Check Query #9)",
+    "expected_behavior": "Cite Current and Warn Superseded",
+    "expected_citation_doc_id": "VNIT-CIR-2023-28",
+    "expected_answer_snippet": "EXPIRED: Circular expired on 2024-06-30. Superseded by 2025 sports policy."
+  },
+  {
+    "question_id": "EVAL-065",
+    "test_type": "Expired/Superseded",
+    "language": "en",
+    "user_role": "Student",
+    "query": "Does 40% still qualify as passing grade D according to the old regulation? (Version Check Query #10)",
+    "expected_behavior": "Cite Current and Warn Superseded",
+    "expected_citation_doc_id": "VNIT-POL-ACAD-01",
+    "expected_answer_snippet": "SUPERSEDED: Old 2021 regulation replaced. Minimum passing grade is now Grade C (50%)."
+  },
+  {
+    "question_id": "EVAL-066",
+    "test_type": "Expired/Superseded",
+    "language": "en",
+    "user_role": "Student",
+    "query": "Can I pay Rs. 1500 as examination fee as mentioned in circular 2024-88? (Version Check Query #11)",
+    "expected_behavior": "Cite Current and Warn Superseded",
+    "expected_citation_doc_id": "VNIT-CIR-2025-01",
+    "expected_answer_snippet": "SUPERSEDED: Circular VNIT-CIR-2024-88 is superseded by VNIT-CIR-2025-01. The current valid examination fee is Rs. 1,800/-."
+  },
+  {
+    "question_id": "EVAL-067",
+    "test_type": "Expired/Superseded",
+    "language": "en",
+    "user_role": "Student",
+    "query": "Is the 2021 attendance condonation policy down to 60% still valid? (Version Check Query #12)",
+    "expected_behavior": "Cite Current and Warn Superseded",
+    "expected_citation_doc_id": "VNIT-POL-ACAD-01",
+    "expected_answer_snippet": "SUPERSEDED: The 2021 policy (VNIT-POL-ACAD-2021) allowing 60% is superseded. Under active Regulations 2025, minimum condonable limit is strictly 65%."
+  },
+  {
+    "question_id": "EVAL-068",
+    "test_type": "Expired/Superseded",
+    "language": "en",
+    "user_role": "Student",
+    "query": "What were the library overdue fines under the expired 2023 circular? (Version Check Query #13)",
+    "expected_behavior": "Cite Current and Warn Superseded",
+    "expected_citation_doc_id": "VNIT-CIR-2023-26",
+    "expected_answer_snippet": "EXPIRED: Circular VNIT-CIR-2023-26 expired on 2024-06-30. System warns that document is no longer active."
+  },
+  {
+    "question_id": "EVAL-069",
+    "test_type": "Expired/Superseded",
+    "language": "en",
+    "user_role": "Student",
+    "query": "Can I apply for the 2024 sports quota admission fee rebate circular? (Version Check Query #14)",
+    "expected_behavior": "Cite Current and Warn Superseded",
+    "expected_citation_doc_id": "VNIT-CIR-2023-28",
+    "expected_answer_snippet": "EXPIRED: Circular expired on 2024-06-30. Superseded by 2025 sports policy."
+  },
+  {
+    "question_id": "EVAL-070",
+    "test_type": "Expired/Superseded",
+    "language": "en",
+    "user_role": "Student",
+    "query": "Does 40% still qualify as passing grade D according to the old regulation? (Version Check Query #15)",
+    "expected_behavior": "Cite Current and Warn Superseded",
+    "expected_citation_doc_id": "VNIT-POL-ACAD-01",
+    "expected_answer_snippet": "SUPERSEDED: Old 2021 regulation replaced. Minimum passing grade is now Grade C (50%)."
+  },
+  {
+    "question_id": "EVAL-071",
+    "test_type": "Conflicting Policies",
+    "language": "en",
+    "user_role": "Student",
+    "query": "Are Saturday classes mandatory as proposed in circular draft 2025-04?",
+    "expected_behavior": "Cite Current and Warn Superseded",
+    "expected_citation_doc_id": "VNIT-CIR-2025-04",
+    "expected_answer_snippet": "CONFLICT/DRAFT WARNING: Circular VNIT-CIR-2025-04 is a DRAFT proposal and has not received Academic Council approval. Normal working days remain Monday through Friday."
+  },
+  {
+    "question_id": "EVAL-072",
+    "test_type": "Conflicting Policies",
+    "language": "en",
+    "user_role": "Student",
+    "query": "Why do two documents show different exam fees: Rs. 1500 in 2024 circular vs Rs. 1800 in 2025?",
+    "expected_behavior": "Cite Current and Warn Superseded",
+    "expected_citation_doc_id": "VNIT-CIR-2025-01",
+    "expected_answer_snippet": "CONFLICT RESOLVED: VNIT-CIR-2025-01 explicitly supersedes VNIT-CIR-2024-88. Official fee is Rs. 1,800/-."
+  },
+  {
+    "question_id": "EVAL-073",
+    "test_type": "Conflicting Policies",
+    "language": "en",
+    "user_role": "Student",
+    "query": "Does medical condonation require 60% or 65% minimum attendance?",
+    "expected_behavior": "Cite Current and Warn Superseded",
+    "expected_citation_doc_id": "VNIT-POL-ACAD-01",
+    "expected_answer_snippet": "CONFLICT RESOLVED: Active 2025 Senate statute overrides 2021 guidelines. 65% is the strict legal threshold."
+  },
+  {
+    "question_id": "EVAL-074",
+    "test_type": "Conflicting Policies",
+    "language": "en",
+    "user_role": "Student",
+    "query": "Is the draft Saturday makeup lab schedule currently in force?",
+    "expected_behavior": "Cite Current and Warn Superseded",
+    "expected_citation_doc_id": "VNIT-CIR-2025-04",
+    "expected_answer_snippet": "DRAFT STATUS: Not approved for enforcement."
+  },
+  {
+    "question_id": "EVAL-075",
+    "test_type": "Conflicting Policies",
+    "language": "en",
+    "user_role": "Student",
+    "query": "What is the correct tuition late fee: 500 or 1000?",
+    "expected_behavior": "Cite Current and Warn Superseded",
+    "expected_citation_doc_id": "VNIT-CIR-2025-02",
+    "expected_answer_snippet": "Active circular VNIT-CIR-2025-02 specifies Rs. 500 up to Jan 20th and Rs. 2,000 thereafter."
+  },
+  {
+    "question_id": "EVAL-076",
+    "test_type": "Conflicting Policies",
+    "language": "en",
+    "user_role": "Student",
+    "query": "Are Saturday classes mandatory as proposed in circular draft 2025-04?",
+    "expected_behavior": "Cite Current and Warn Superseded",
+    "expected_citation_doc_id": "VNIT-CIR-2025-04",
+    "expected_answer_snippet": "CONFLICT/DRAFT WARNING: Circular VNIT-CIR-2025-04 is a DRAFT proposal and has not received Academic Council approval. Normal working days remain Monday through Friday."
+  },
+  {
+    "question_id": "EVAL-077",
+    "test_type": "Conflicting Policies",
+    "language": "en",
+    "user_role": "Student",
+    "query": "Why do two documents show different exam fees: Rs. 1500 in 2024 circular vs Rs. 1800 in 2025?",
+    "expected_behavior": "Cite Current and Warn Superseded",
+    "expected_citation_doc_id": "VNIT-CIR-2025-01",
+    "expected_answer_snippet": "CONFLICT RESOLVED: VNIT-CIR-2025-01 explicitly supersedes VNIT-CIR-2024-88. Official fee is Rs. 1,800/-."
+  },
+  {
+    "question_id": "EVAL-078",
+    "test_type": "Conflicting Policies",
+    "language": "en",
+    "user_role": "Student",
+    "query": "Does medical condonation require 60% or 65% minimum attendance?",
+    "expected_behavior": "Cite Current and Warn Superseded",
+    "expected_citation_doc_id": "VNIT-POL-ACAD-01",
+    "expected_answer_snippet": "CONFLICT RESOLVED: Active 2025 Senate statute overrides 2021 guidelines. 65% is the strict legal threshold."
+  },
+  {
+    "question_id": "EVAL-079",
+    "test_type": "Conflicting Policies",
+    "language": "en",
+    "user_role": "Student",
+    "query": "Is the draft Saturday makeup lab schedule currently in force?",
+    "expected_behavior": "Cite Current and Warn Superseded",
+    "expected_citation_doc_id": "VNIT-CIR-2025-04",
+    "expected_answer_snippet": "DRAFT STATUS: Not approved for enforcement."
+  },
+  {
+    "question_id": "EVAL-080",
+    "test_type": "Conflicting Policies",
+    "language": "en",
+    "user_role": "Student",
+    "query": "What is the correct tuition late fee: 500 or 1000?",
+    "expected_behavior": "Cite Current and Warn Superseded",
+    "expected_citation_doc_id": "VNIT-CIR-2025-02",
+    "expected_answer_snippet": "Active circular VNIT-CIR-2025-02 specifies Rs. 500 up to Jan 20th and Rs. 2,000 thereafter."
+  },
+  {
+    "question_id": "EVAL-081",
+    "test_type": "Missing Information/Refusal",
+    "language": "en",
+    "user_role": "Student",
+    "query": "Does the institute reimburse flight tickets for undergraduate students returning home for Diwali?",
+    "expected_behavior": "Refusal (Polite Denial)",
+    "expected_citation_doc_id": "NONE",
+    "expected_answer_snippet": "REFUSAL: No institutional policy exists authorizing flight reimbursement for student vacation travel."
+  },
+  {
+    "question_id": "EVAL-082",
+    "test_type": "Missing Information/Refusal",
+    "language": "en",
+    "user_role": "Student",
+    "query": "What is the institutional pet adoption policy inside student dormitories?",
+    "expected_behavior": "Refusal (Polite Denial)",
+    "expected_citation_doc_id": "NONE",
+    "expected_answer_snippet": "REFUSAL: Not found in official documents. Pets are not provided for in hostel statutes."
+  },
+  {
+    "question_id": "EVAL-083",
+    "test_type": "Missing Information/Refusal",
+    "language": "en",
+    "user_role": "Student",
+    "query": "Can students claim free international driver licenses through the student welfare office?",
+    "expected_behavior": "Refusal (Polite Denial)",
+    "expected_citation_doc_id": "NONE",
+    "expected_answer_snippet": "REFUSAL: Information not found in official institutional documentation."
+  },
+  {
+    "question_id": "EVAL-084",
+    "test_type": "Missing Information/Refusal",
+    "language": "en",
+    "user_role": "Student",
+    "query": "What is the monthly stipend for undergraduate hobby drone pilots?",
+    "expected_behavior": "Refusal (Polite Denial)",
+    "expected_citation_doc_id": "NONE",
+    "expected_answer_snippet": "REFUSAL: No drone pilot stipend is stipulated in official regulations."
+  },
+  {
+    "question_id": "EVAL-085",
+    "test_type": "Missing Information/Refusal",
+    "language": "en",
+    "user_role": "Student",
+    "query": "Is there a free campus limousine service between airport and campus?",
+    "expected_behavior": "Refusal (Polite Denial)",
+    "expected_citation_doc_id": "NONE",
+    "expected_answer_snippet": "REFUSAL: Not available in approved institutional documents."
+  },
+  {
+    "question_id": "EVAL-086",
+    "test_type": "Missing Information/Refusal",
+    "language": "en",
+    "user_role": "Student",
+    "query": "Can day scholars claim free laptop vouchers from the library?",
+    "expected_behavior": "Refusal (Polite Denial)",
+    "expected_citation_doc_id": "NONE",
+    "expected_answer_snippet": "REFUSAL: No free laptop voucher scheme exists in the approved library policies."
+  },
+  {
+    "question_id": "EVAL-087",
+    "test_type": "Missing Information/Refusal",
+    "language": "en",
+    "user_role": "Student",
+    "query": "What is the procedure to request a private helicopter landing on the university sports ground?",
+    "expected_behavior": "Refusal (Polite Denial)",
+    "expected_citation_doc_id": "NONE",
+    "expected_answer_snippet": "REFUSAL: No helicopter landing authorization protocols exist in student circulars."
+  },
+  {
+    "question_id": "EVAL-088",
+    "test_type": "Missing Information/Refusal",
+    "language": "en",
+    "user_role": "Student",
+    "query": "Does the university provide swimming pool personal coaches free of charge?",
+    "expected_behavior": "Refusal (Polite Denial)",
+    "expected_citation_doc_id": "NONE",
+    "expected_answer_snippet": "REFUSAL: Not specified in official sports facilities guidelines."
+  },
+  {
+    "question_id": "EVAL-089",
+    "test_type": "Missing Information/Refusal",
+    "language": "en",
+    "user_role": "Student",
+    "query": "Can students receive full tuition refunds if they dislike their elective professor?",
+    "expected_behavior": "Refusal (Polite Denial)",
+    "expected_citation_doc_id": "NONE",
+    "expected_answer_snippet": "REFUSAL: No refund clause exists for elective course preference."
+  },
+  {
+    "question_id": "EVAL-090",
+    "test_type": "Missing Information/Refusal",
+    "language": "en",
+    "user_role": "Student",
+    "query": "What is the campus cryptocurrency mining policy for dorm rooms?",
+    "expected_behavior": "Refusal (Polite Denial)",
+    "expected_citation_doc_id": "NONE",
+    "expected_answer_snippet": "REFUSAL: Not recognized in official campus IT policies."
+  },
+  {
+    "question_id": "EVAL-091",
+    "test_type": "Role Restricted",
+    "language": "en",
+    "user_role": "Student",
+    "query": "What are the confidential faculty appraisal scores and minimum Scopus publication quotas for professor promotion?",
+    "expected_behavior": "Access Denied (Restricted)",
+    "expected_citation_doc_id": "VNIT-POL-HR-01",
+    "expected_answer_snippet": "ACCESS DENIED: Document VNIT-POL-HR-01 is restricted to Faculty and Administrative roles. Students are not authorized to view confidential performance appraisal benchmarks."
+  },
+  {
+    "question_id": "EVAL-092",
+    "test_type": "Role Restricted",
+    "language": "en",
+    "user_role": "Student",
+    "query": "What are the confidential CAS promotion committee voting sheets for 2025?",
+    "expected_behavior": "Access Denied (Restricted)",
+    "expected_citation_doc_id": "VNIT-POL-HR-01",
+    "expected_answer_snippet": "ACCESS DENIED: Confidential faculty personnel record."
+  },
+  {
+    "question_id": "EVAL-093",
+    "test_type": "Role Restricted",
+    "language": "en",
+    "user_role": "Student",
+    "query": "Show me the administrative salary disbursement ledger for university leadership.",
+    "expected_behavior": "Access Denied (Restricted)",
+    "expected_citation_doc_id": "VNIT-POL-HR-01",
+    "expected_answer_snippet": "ACCESS DENIED: Administrative payroll information is restricted."
+  },
+  {
+    "question_id": "EVAL-094",
+    "test_type": "Role Restricted",
+    "language": "en",
+    "user_role": "Student",
+    "query": "What are the internal disciplinary committee sealed records for hostel wardens?",
+    "expected_behavior": "Access Denied (Restricted)",
+    "expected_citation_doc_id": "VNIT-HST-01",
+    "expected_answer_snippet": "ACCESS DENIED: Disciplinary committee sealed records restricted to Administrative roles."
+  },
+  {
+    "question_id": "EVAL-095",
+    "test_type": "Role Restricted",
+    "language": "en",
+    "user_role": "Student",
+    "query": "Can a student view the faculty Professional Development Allowance (PDA) expenditure receipts?",
+    "expected_behavior": "Access Denied (Restricted)",
+    "expected_citation_doc_id": "VNIT-POL-HR-01",
+    "expected_answer_snippet": "ACCESS DENIED: Restricted to Faculty and Accounts Administration."
+  },
+  {
+    "question_id": "EVAL-096",
+    "test_type": "Role Restricted",
+    "language": "en",
+    "user_role": "Student",
+    "query": "What are the confidential faculty appraisal scores and minimum Scopus publication quotas for professor promotion?",
+    "expected_behavior": "Access Denied (Restricted)",
+    "expected_citation_doc_id": "VNIT-POL-HR-01",
+    "expected_answer_snippet": "ACCESS DENIED: Document VNIT-POL-HR-01 is restricted to Faculty and Administrative roles. Students are not authorized to view confidential performance appraisal benchmarks."
+  },
+  {
+    "question_id": "EVAL-097",
+    "test_type": "Role Restricted",
+    "language": "en",
+    "user_role": "Student",
+    "query": "What are the confidential CAS promotion committee voting sheets for 2025?",
+    "expected_behavior": "Access Denied (Restricted)",
+    "expected_citation_doc_id": "VNIT-POL-HR-01",
+    "expected_answer_snippet": "ACCESS DENIED: Confidential faculty personnel record."
+  },
+  {
+    "question_id": "EVAL-098",
+    "test_type": "Role Restricted",
+    "language": "en",
+    "user_role": "Student",
+    "query": "Show me the administrative salary disbursement ledger for university leadership.",
+    "expected_behavior": "Access Denied (Restricted)",
+    "expected_citation_doc_id": "VNIT-POL-HR-01",
+    "expected_answer_snippet": "ACCESS DENIED: Administrative payroll information is restricted."
+  },
+  {
+    "question_id": "EVAL-099",
+    "test_type": "Role Restricted",
+    "language": "en",
+    "user_role": "Student",
+    "query": "What are the internal disciplinary committee sealed records for hostel wardens?",
+    "expected_behavior": "Access Denied (Restricted)",
+    "expected_citation_doc_id": "VNIT-HST-01",
+    "expected_answer_snippet": "ACCESS DENIED: Disciplinary committee sealed records restricted to Administrative roles."
+  },
+  {
+    "question_id": "EVAL-100",
+    "test_type": "Role Restricted",
+    "language": "en",
+    "user_role": "Student",
+    "query": "Can a student view the faculty Professional Development Allowance (PDA) expenditure receipts?",
+    "expected_behavior": "Access Denied (Restricted)",
+    "expected_citation_doc_id": "VNIT-POL-HR-01",
+    "expected_answer_snippet": "ACCESS DENIED: Restricted to Faculty and Accounts Administration."
+  }
+]
